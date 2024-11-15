@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hello 👋, I'm Aaryan </h1>
 <!-- <h3 align="center">A full-stack developer and App Developer</h3> -->
 
+
+<br />
+
+     
 - 📖 I’m currently studying Computer Science & Engineering at PDEU, Gandhinagar.
 - ✨ I'm a passionate software developer with a backgorund in Full-Stack Development and App Development.
 - 🔭 Currently exploring emerging technologies, building impactful software solutions, and working on innovative projects. 
